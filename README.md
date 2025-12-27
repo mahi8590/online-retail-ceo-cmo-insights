@@ -21,5 +21,7 @@ to provide actionable insights for executive decision-makers (CEO & CMO).
 - `insights/` – Key findings summary
 
 ## Dashboard Preview
-online-retail-ceo-cmo-insights/screenshots/CEO & CMO Insights – Online Retail.png
 
+![CEO & CMO Dashboard](online-retail-ceo-cmo-insights/screenshots/CEO%20%26%20CMO%20Insights%20%E2%80%93%20Online%20Retail.png)
+
+*Power BI dashboard showing revenue trends, top countries, top customers, and demand distribution.*
