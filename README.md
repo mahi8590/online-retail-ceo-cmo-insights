@@ -21,4 +21,5 @@ to provide actionable insights for executive decision-makers (CEO & CMO).
 - `insights/` – Key findings summary
 
 ## Dashboard Preview
-![CEO Dashboard](screenshots/CEO & CMO Insights – Online Retail.png)
+online-retail-ceo-cmo-insights/screenshots/CEO & CMO Insights – Online Retail.png
+
