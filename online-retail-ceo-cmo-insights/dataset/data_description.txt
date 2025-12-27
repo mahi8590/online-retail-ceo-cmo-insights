@@ -1,0 +1,6 @@
+This dataset contains online retail transaction data.
+Fields include invoice number, product description,
+quantity, unit price, customer ID, country, and date.
+
+Data cleaning and transformation were done in Power BI
+before building dashboards.
